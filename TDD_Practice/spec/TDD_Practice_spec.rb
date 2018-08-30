@@ -48,4 +48,12 @@ describe 'Array#two_sum' do
       expect(matrix.my_transpose).to eq(matrix.transpose)
     end
   end
+  
+  describe 'Arry#stock_picker' do
+    it 'returns the two days with the greatest profit'
+    
+    it 'buys on a day prior to selling'
+    expect(ans.first < ans.last).to be(true)
+    
+  end
 end
